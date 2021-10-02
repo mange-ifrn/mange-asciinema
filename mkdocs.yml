@@ -1,0 +1,35 @@
+site_name: ASCIINEMA
+site_author: Jurandy Soares
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: green
+
+nav:
+  - index.md
+  - agenda.md
+  - perguntas.md
+  - respostas.md
+  - instalacao.md
+  - ajuda.md
+  - exemplos.md
+  - exemplo-1.md
+  - exemplo-2.md
+  - exemplo-3.md
+  - exemplo-4.md
+  - exemplo-5.md
+  - exemplo-6.md
+  - exemplo-7.md
+  - exemplo-8.md  
+  - referencias.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
