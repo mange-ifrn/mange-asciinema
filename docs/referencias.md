@@ -1,8 +1,12 @@
 # Referências
 
+- ASCII. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2021. Disponível em: <https://pt.wikipedia.org/w/index.php?title=ASCII&oldid=62016293>. Acesso em: 9 set. 2021.
 
 - [Chave da sintaxe de linha de comando | Microsoft Docs](https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/command-line-syntax-key). 
     - Disponível em: <https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/command-line-syntax-key>
+
+- CINEMA. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2021. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Cinema&oldid=61730086>. Acesso em: 28 jul. 2021.
+
 - [Documenting command-line syntax](https://developers.google.com/style/code-syntax).   
     - Disponível em: <https://developers.google.com/style/code-syntax>
   

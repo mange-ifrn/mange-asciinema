@@ -1,5 +1,7 @@
 # asciinema: Cinema em ASCII
 
+<script id="asciicast-335480" src="https://asciinema.org/a/335480.js" async></script>
+
 Descrição traduzida do comando `snap info asciinema`:
 
 > Esqueça aplicativos de gravação de tela e vídeos embaçados. Desfrute de uma abordagem leve e puramente baseada em texto para a gravação do terminal.

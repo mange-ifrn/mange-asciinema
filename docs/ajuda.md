@@ -6,7 +6,7 @@ Uso:
 
 - `asciinema [-h] [--version] {rec,play,cat,upload,auth} ...`
 
-Você pode interpretar a linha acima assim (Veja as [referências](referencias.md):
+Você pode interpretar a linha acima assim (Veja as [referências](referencias.md)):
 
 $$
 asciinema 

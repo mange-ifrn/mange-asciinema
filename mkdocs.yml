@@ -4,11 +4,13 @@ site_author: Jurandy Soares
 theme:
   name: material
   language: pt
+  logo: imagens/favicon.png
+  favicon: imagens/favicon.png
   palette:
-    primary: green
+    primary: black
 
 nav:
-  - index.md
+  - "Início": index.md
   - agenda.md
   - perguntas.md
   - respostas.md

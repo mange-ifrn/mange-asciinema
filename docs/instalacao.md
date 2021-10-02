@@ -4,7 +4,7 @@ Podemos instalá-lo tanto via `apt` como via `snap`. Para ter sempre a versão m
 
 Instalação via `snap`:
 
-- `sudo snap install`
+- `sudo snap install asciinema --classic`
 
 ---
 
